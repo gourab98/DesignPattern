@@ -1,0 +1,23 @@
+Question 1
+
+You are assigned to help a company that is looking to build a robot for cooking. The company wants a simple robot that can simply walk and cook. A user can operate a robot using a set of commands via remote control. Currently, a robot can do three things, it can walk, cook, or can be switched off. The company has set protocols to define the functionality of the robot. If a robot is in "on" state, you can command it to walk. If asked to cook, the state would change to "cook" or if set to "off", it will be switched off. Similarly, when in "cook" state it can walk or cook, but cannot be switched off. And finally, when in "off" state it will automatically get on and walk when the user commands it to walk but cannot cook in off state.
+
+Solve the problem with a pattern with some sample code and a Demo code to simulate the robot.
+
+
+
+
+Question 2
+
+Imagine you own a coffee shop. You automated the system using the software you wrote. In your shop, you have three types of coffee and two types of add-ons. Customers can take any type of coffee with extra add-ons. So write a program to calculate the total prices of the coffee shop you own which can be easily extendable and maintainable.
+
+Write a solution for this problem with required classes and at least three sample classes per category with a Demo class.
+
+
+
+
+Question 3
+
+Suppose you are designing a simulation game about the user from different types of jobs like a teacher, student, worker, etc. All the users have some similarities in their tasks. Besides the similarities, they have some tasks which they perform differently but the execution name is the same, such as, students work is studying and a teacher's work is teaching.
+
+Build the simulation with appropriate classes and applying proper patterns to it.
