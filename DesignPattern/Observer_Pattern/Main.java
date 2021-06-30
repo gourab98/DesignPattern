@@ -8,9 +8,11 @@ public class Main {
 
         Client c1 = new Client();
         Admin a1 = new Admin();
+        Admin a2 = new Admin();
 
         system.register(c1);
         system.register(a1);
+        system.register(a2);
 
         system.sendNotification();
     }
