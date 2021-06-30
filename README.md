@@ -3,6 +3,8 @@
 
 Basic Object Oriented Programming Concept:
 
+Design Pattern Lab Test
+
 Design Pattern Example with codes:
 
 * Command
