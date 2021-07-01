@@ -1,6 +1,7 @@
 package DesignPattern.Singleton_Pattern_2;
 
 public class SingletonDemo {
+
     public static void main(String[] args) {
         Singleton objOne = Singleton.getInstance();
         Singleton objTwo = Singleton.getInstance();

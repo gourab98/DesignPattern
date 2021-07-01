@@ -3,7 +3,7 @@ package DesignPattern.Observer_Pattern_2;
 public class GrabStocks {
     public static void main(String[] args) {
 
-        StockGrabber stockGrabber= new StockGrabber();
+        StockGrabber stockGrabber = new StockGrabber();
 
         StockObserver observer1 = new StockObserver(stockGrabber);
 

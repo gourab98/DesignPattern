@@ -1,7 +1,5 @@
 package DesignPattern.Observer_Pattern_2;
 
-import com.sun.security.jgss.GSSUtil;
-
 public class StockObserver implements Observer {
 
     private double ibmPrice;
