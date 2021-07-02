@@ -1,4 +1,4 @@
-package question_3;
+package DesignPatternLabTest.question_3;
 
 // Using Template Pattern
 

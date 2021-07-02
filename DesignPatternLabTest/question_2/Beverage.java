@@ -1,4 +1,4 @@
-package question_2;
+package DesignPatternLabTest.question_2;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";

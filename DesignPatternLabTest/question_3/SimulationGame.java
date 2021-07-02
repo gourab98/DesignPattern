@@ -1,4 +1,4 @@
-package question_3;
+package DesignPatternLabTest.question_3;
 
 abstract class SimulationGame {
     abstract void start();

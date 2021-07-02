@@ -1,4 +1,4 @@
-package question_1;
+package DesignPatternLabTest.question_1;
 
 public interface RobotState {
 

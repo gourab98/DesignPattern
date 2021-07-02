@@ -1,4 +1,4 @@
-package question_2;
+package DesignPatternLabTest.question_2;
 
 public class Milk extends ItemDecorator {
     public Milk(Beverage beverage) {

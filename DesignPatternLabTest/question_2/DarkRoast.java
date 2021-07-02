@@ -1,4 +1,4 @@
-package question_2;
+package DesignPatternLabTest.question_2;
 
 public class DarkRoast extends Beverage {
     public DarkRoast() {
